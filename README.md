@@ -1,2 +1,0 @@
-# LanternRiddles
-灯谜
